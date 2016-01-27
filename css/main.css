@@ -12,6 +12,6 @@ body {
   line-height: 1.3;
   color: rgb(3,3,3);
 }
-.container {
+.container, footer {
   margin: 0 5%;
 }
