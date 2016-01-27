@@ -1,2 +1,3 @@
 name: Phillip Chee, Computer Science Technologist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
